@@ -1,3 +1,23 @@
 body {
     background: yellow;
 }
+h1 {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: #3f8b57;
+}
+path{
+    fill: transparent;
+}
+svg {
+    position: absolute
+  }
+  
+.hedehog{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.hedehog img{
+    width:840px;
+    height:750px;
+}
